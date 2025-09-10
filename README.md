@@ -26,7 +26,7 @@ Hi, I’m **Tahir Ali**, a passionate **Web Developer** 🚀
 
 ## 🌐 Connect with Me
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MRDAVIL1) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Tahir Web Craft )
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Tahir Web Craft)
 ---
 
 ⭐ *“Every great project starts with one small line of code.”*
