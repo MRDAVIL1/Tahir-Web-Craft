@@ -28,6 +28,7 @@ Hi, I’m **Tahir Ali**, a passionate **Web Developer** 🚀
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MRDAVIL1) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](http://www.linkedin.com/in/tahir-web-craft-87b711383)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/923173916773)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ta7437892@gmail.com) 
 ---
 
 ⭐ *“Every great project starts with one small line of code.”*
