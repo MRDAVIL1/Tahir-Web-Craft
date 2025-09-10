@@ -20,7 +20,7 @@ Hi, I’m **Tahir Ali**, a passionate **Web Developer** 🚀
 
 ## 📊 GitHub Stats
 ![Tahir's GitHub stats](https://github-readme-stats.vercel.app/api?username=MRDAVIL1&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MRDAVIL1&layout=compact&theme=tokyonight)  
 
 ---
 
