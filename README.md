@@ -1,9 +1,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=✨+I+am+Tahir+Ali;💻+Web+Developer+%7C+Full+Stack+Learner;🚀+Crafting+beautiful+and+scalable+apps;🌐+Turning+ideas+into+digital+reality)
 # Tahir Ali
 
-# Tahir Ali  
-
-👨‍💻 10+ years of coding experience  
+👨‍💻 3 years of coding experience  
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC-lHJZR3Gqxm24_Vd_AJ5Yw?label=Subscribe&style=for-the-badge&logo=youtube&color=FF0000)](https://youtube.com/)  
 [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC-lHJZR3Gqxm24_Vd_AJ5Yw?label=Views&style=for-the-badge&logo=youtube&color=yellow)](https://youtube.com/)  
