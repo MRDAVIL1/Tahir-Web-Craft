@@ -2,9 +2,7 @@
 # Tahir Ali
 
 👨‍💻 3 years of coding experience  
-
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC-lHJZR3Gqxm24_Vd_AJ5Yw?label=Subscribe&style=for-the-badge&logo=youtube&color=FF0000)](https://youtube.com/)  
-[![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC-lHJZR3Gqxm24_Vd_AJ5Yw?label=Views&style=for-the-badge&logo=youtube&color=yellow)](https://youtube.com/)  
+ 
 [![GitHub Stars](https://img.shields.io/github/stars/TahirAli?affiliations=OWNER&style=for-the-badge&logo=github&color=brightgreen)](https://github.com/TahirAli)  
 [![GitHub Followers](https://img.shields.io/github/followers/TahirAli?style=for-the-badge&logo=github&color=blue)](https://github.com/TahirAli)  
 [![Profile Visitors](https://komarev.com/ghpvc/?username=TahirAli&style=for-the-badge&color=purple)](https://github.com/TahirAli)  
