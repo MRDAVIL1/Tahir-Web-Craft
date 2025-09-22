@@ -11,7 +11,7 @@
 
 ## 📘 My Top Open Source Projects  
 
-### [awesome-project-1](https://github.com/MRDAVIL1/Tahir-Web-Craft)  
+### [MRDAVIL1/Tahir-Web-Craft](https://github.com/MRDAVIL1/Tahir-Web-Craft)  
 ![GitHub Repo stars](https://img.shields.io/github/stars/MRDAVIL1/Tahir-Web-Craft?style=social)  
 ![GitHub forks](https://img.shields.io/github/forks/MRDAVIL1/Tahir-Web-Craft?style=social)  
 ⚡ Dynamically generated, customizable SVG banners for profiles.  
