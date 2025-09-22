@@ -17,7 +17,7 @@
 ### [FIGMA_BLOGS](https://github.com/MRDAVIL1/Figma_Blog)
 ---
 
-### [Periodic_Table](https://github.com/MRDAVIL1/Periodic_AtomicUI) 
+### [Periodic_Table](https://github.com/MRDAVIL1/Periodic_Table) 
 ---
 ---
 
