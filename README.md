@@ -12,31 +12,12 @@
 ## 📘 My Top Open Source Projects  
 
 ### [Audio and Videos Project](https://github.com/MRDAVIL1/Tahir-Web-Craft)  
-![GitHub Repo stars](https://img.shields.io/github/stars/MRDAVIL1/Tahir-Web-Craft?style=social)  
-![GitHub forks](https://img.shields.io/github/forks/MRDAVIL1/Tahir-Web-Craft?style=social)  
-⚡ Dynamically generated, customizable SVG banners for profiles.  
-
 ---
 
-### [FIGMA_BLOGS](https://github.com/MRDAVIL1/Figma_Blog)  
-![GitHub Repo stars](https://img.shields.io/github/stars/MRDAVIL/Figma_Blog?style=social)  
-![GitHub forks](https://img.shields.io/github/forks/MRDAVIL1/Figma_Blog?style=social)  
-🔥 Stay productive with this modern dashboard built with React + Tailwind.  
-
+### [FIGMA_BLOGS](https://github.com/MRDAVIL1/Figma_Blog)
 ---
 
-### [custom-badges](https://github.com/TahirAli/custom-badges)  
-![GitHub Repo stars](https://img.shields.io/github/stars/TahirAli/custom-badges?style=social)  
-![GitHub forks](https://img.shields.io/github/forks/TahirAli/custom-badges?style=social)  
-🛡️ Create your own custom badges with icons and text.  
-
----
-
-### [youtube-cards](https://github.com/TahirAli/youtube-cards)  
-![GitHub Repo stars](https://img.shields.io/github/stars/TahirAli/youtube-cards?style=social)  
-![GitHub forks](https://img.shields.io/github/forks/TahirAli/youtube-cards?style=social)  
-▶️ Display your recent YouTube videos as SVG cards in your README.  
-
+### [Periodic_Table](https://github.com/MRDAVIL1/Periodic_AtomicUI) 
 ---
 ---
 
