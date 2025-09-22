@@ -18,9 +18,9 @@
 
 ---
 
-### [cool-dashboard](https://github.com/TahirAli/cool-dashboard)  
-![GitHub Repo stars](https://img.shields.io/github/stars/TahirAli/cool-dashboard?style=social)  
-![GitHub forks](https://img.shields.io/github/forks/TahirAli/cool-dashboard?style=social)  
+### [FIGMA_BLOGS](https://github.com/MRDAVIL1/Figma_Blog)  
+![GitHub Repo stars](https://img.shields.io/github/stars/MRDAVIL/Figma_Blog?style=social)  
+![GitHub forks](https://img.shields.io/github/forks/MRDAVIL1/Figma_Blog?style=social)  
 🔥 Stay productive with this modern dashboard built with React + Tailwind.  
 
 ---
